@@ -1,5 +1,5 @@
 = SBuild BndJar Plugin
-:sbuildversion: 0.8.0.9010
+:sbuildversion: 0.7.9010.0-8-0-M1
 :pluginversion: 0.0.9000
 :toc:
 :toc-placement: preamble
