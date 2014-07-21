@@ -36,7 +36,7 @@ This plugin requires at least SBuild {sbuildversion}.
 
 == Configuration
 
-All configurable properties are documented via ScalaDoc. See file link:org.sbuild.plugins.jar/src/main/scala/org/sbuild/plugins/bndjar/BndJar.scala[`BndJar.scala`].
+All configurable properties are documented via ScalaDoc. See file link:org.sbuild.plugins.bndjar/src/main/scala/org/sbuild/plugins/bndjar/BndJar.scala[`BndJar.scala`].
 
 == Changelog
 
